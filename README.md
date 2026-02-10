@@ -1,2 +1,2 @@
 # cavor-portfolio
-Portfolio template featuring an interactive Three.js icosahedron sphere with animated dot particles and mouse-controlled rotation. Fixed WebGL background with traditional resume sections overlay.
+Built with Three.js WebGL rendering, featuring an animated icosahedron sphere that responds to mouse movement. The sphere remains fixed while resume content scrolls over it, creating a dynamic contrast between 3D graphics and professional content. Includes GLSL shaders for particle effects, TweenMax animations, and responsive design. For engineers wanting to showcase technical creativity alongside traditional credentials.
